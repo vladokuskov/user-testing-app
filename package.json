@@ -1,5 +1,5 @@
 {
-  "name": "routetify",
+  "name": "User testing application",
   "description": "Web application that allows you to create routes.",
   "scripts": {
     "server": "npm run dev --prefix server",
